@@ -54,10 +54,4 @@ Each table includes **primary keys**, **foreign keys**, **constraints**, and **r
 
 ---
 
-##  How to Run
-
-1. Import the DDL statements from `Normalized DDL Statements.pdf` in your SQL environment.
-2. Insert data using queries from `TABLES.pdf`.
-3. You can run `SELECT`, `JOIN`, `UPDATE`, and other queries to test various workflows (like test result updates, renewal date changes, etc.)
-
 
